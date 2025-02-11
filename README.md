@@ -1,1 +1,1 @@
-# Statistics-Calculator
+I made this repository for studying purpose. I will copy what i am studying in freeCodeCamp to help me memorize and learn more efficiently.
