@@ -1,1 +1,2 @@
 I made this repository for studying purpose. I will copy what i am studying in freeCodeCamp to help me memorize and learn more efficiently.
+In this challenge, we will build a statistics calculator that takes a set of numbers and returns the mean, median, mode, standard deviation, and variance.
